@@ -8,7 +8,7 @@ setup(
     name="utilities-robetraks",
     version="0.1.0",
     author="Akshay Jain",
-    author_email="jain.akshay@icloud.com"
+    author_email="jain.akshay@icloud.com",
     description="A collection of utility functions for data analysis and plotting",
     long_description=long_description,
     long_description_content_type="text/markdown",

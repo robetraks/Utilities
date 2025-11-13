@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel", "setuptools_scm>=6.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "utilities-robetraks"
+name = "utilities"
 version = "0.1.0"
 description = "A collection of utility functions for data analysis and plotting"
 readme = "README.md"
